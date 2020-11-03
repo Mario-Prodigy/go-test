@@ -1,0 +1,7 @@
+site_name: 'andrewsGoTest'
+
+nav:
+  - Home: README.md
+
+plugins:
+  - techdocs-core
