@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Andrews Go Test
+  name: AndrewsGoTest
   description: Test of the backstage GoLang template
   annotations: 
     github.com/project-slug: andrewhertog/go-test
